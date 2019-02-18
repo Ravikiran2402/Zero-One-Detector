@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed May  9 10:10:47 2018
+[*]
+[dumpfile] "/home/ravi/Desktop/final/zero_one_detector/zero_one_detector.vcd"
+[dumpfile_mtime] "Wed May  9 10:06:31 2018"
+[dumpfile_size] 924
+[savefile] "/home/ravi/Desktop/final/zero_one_detector/Zero_one_detector_waveform.gtkw"
+[timestart] 322
+[size] 1845 1025
+[pos] -39 -39
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 301
+@28
+seq_tb.A
+seq_tb.Y
+seq_tb.clk
+seq_tb.rst
+seq_tb.uut.A
+seq_tb.uut.Y
+seq_tb.uut.clk
+seq_tb.uut.curr_state[1:0]
+seq_tb.uut.nxt_state[1:0]
+seq_tb.uut.rst
+[pattern_trace] 1
+[pattern_trace] 0
